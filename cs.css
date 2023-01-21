@@ -1,0 +1,20 @@
+/* Created by lolo */
+
+body {
+    margin:0;
+    position:fixed;
+    background-color: rgb(250, 115, 115);
+}
+#textvalue{
+    display:none;
+    color: rgb(233, 115, 115);
+}
+#tsorted{
+    position:fixed;
+    top:10px;
+    left:30px;
+    color:rgb(255, 0, 0);
+}
+.input{
+    color: rgb(235, 118, 118);
+}
